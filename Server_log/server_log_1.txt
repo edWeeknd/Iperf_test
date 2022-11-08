@@ -1,0 +1,128 @@
+-----------------------------------------------------------
+Server listening on 5201 (test #1)
+-----------------------------------------------------------
+Accepted connection from 127.0.0.1, port 48440
+[  6] local 127.0.0.1 port 5201 connected to 127.0.0.1 port 48454
+[  9] local 127.0.0.1 port 5201 connected to 127.0.0.1 port 48456
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  6]   0.00-1.00   sec  2.50 MBytes  20.9 Mbits/sec    1    639 KBytes       
+[  9]   0.00-1.00   sec  2.50 MBytes  20.9 Mbits/sec    1    639 KBytes       
+[SUM]   0.00-1.00   sec  5.00 MBytes  41.8 Mbits/sec    2             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  6]   1.00-2.00   sec  2.38 MBytes  19.9 Mbits/sec    0    639 KBytes       
+[  9]   1.00-2.00   sec  2.38 MBytes  19.9 Mbits/sec    0    639 KBytes       
+[SUM]   1.00-2.00   sec  4.75 MBytes  39.8 Mbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  6]   2.00-3.00   sec  2.38 MBytes  19.9 Mbits/sec    0    639 KBytes       
+[  9]   2.00-3.00   sec  2.38 MBytes  19.9 Mbits/sec    0    639 KBytes       
+[SUM]   2.00-3.00   sec  4.75 MBytes  39.8 Mbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  6]   3.00-4.01   sec  2.38 MBytes  19.9 Mbits/sec    0    639 KBytes       
+[  9]   3.00-4.01   sec  2.38 MBytes  19.9 Mbits/sec    0    639 KBytes       
+[SUM]   3.00-4.01   sec  4.75 MBytes  39.8 Mbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  6]   4.01-5.00   sec  2.38 MBytes  20.0 Mbits/sec    0    639 KBytes       
+[  9]   4.01-5.00   sec  2.38 MBytes  20.0 Mbits/sec    0    639 KBytes       
+[SUM]   4.01-5.00   sec  4.75 MBytes  40.0 Mbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  6]   0.00-5.00   sec  12.0 MBytes  20.1 Mbits/sec    1             sender
+[  9]   0.00-5.00   sec  12.0 MBytes  20.1 Mbits/sec    1             sender
+[SUM]   0.00-5.00   sec  24.0 MBytes  40.2 Mbits/sec    2             sender
+-----------------------------------------------------------
+Server listening on 5201 (test #2)
+-----------------------------------------------------------
+Accepted connection from 127.0.0.1, port 49198
+[  7] local 127.0.0.1 port 5201 connected to 127.0.0.1 port 49210
+[ 10] local 127.0.0.1 port 5201 connected to 127.0.0.1 port 49216
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  7]   0.00-1.00   sec  2.50 MBytes  20.9 Mbits/sec    0    639 KBytes       
+[ 10]   0.00-1.00   sec  2.50 MBytes  20.9 Mbits/sec    0    639 KBytes       
+[SUM]   0.00-1.00   sec  5.00 MBytes  41.8 Mbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  7]   1.00-2.00   sec  2.38 MBytes  19.9 Mbits/sec    0    639 KBytes       
+[ 10]   1.00-2.00   sec  2.38 MBytes  19.9 Mbits/sec    0    639 KBytes       
+[SUM]   1.00-2.00   sec  4.75 MBytes  39.8 Mbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  7]   2.00-3.00   sec  2.38 MBytes  20.0 Mbits/sec    0    639 KBytes       
+[ 10]   2.00-3.00   sec  2.38 MBytes  20.0 Mbits/sec    0    639 KBytes       
+[SUM]   2.00-3.00   sec  4.75 MBytes  39.9 Mbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  7]   3.00-4.00   sec  2.38 MBytes  19.9 Mbits/sec    0    639 KBytes       
+[ 10]   3.00-4.00   sec  2.38 MBytes  19.9 Mbits/sec    0    639 KBytes       
+[SUM]   3.00-4.00   sec  4.75 MBytes  39.8 Mbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  7]   4.00-5.00   sec  2.38 MBytes  20.0 Mbits/sec    0    639 KBytes       
+[ 10]   4.00-5.00   sec  2.38 MBytes  20.0 Mbits/sec    0    639 KBytes       
+[SUM]   4.00-5.00   sec  4.75 MBytes  40.0 Mbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  7]   0.00-5.00   sec  12.0 MBytes  20.1 Mbits/sec    0             sender
+[ 10]   0.00-5.00   sec  12.0 MBytes  20.1 Mbits/sec    0             sender
+[SUM]   0.00-5.00   sec  24.0 MBytes  40.3 Mbits/sec    0             sender
+-----------------------------------------------------------
+Server listening on 5201 (test #3)
+-----------------------------------------------------------
+Accepted connection from 127.0.0.1, port 39204
+[  9] local 127.0.0.1 port 5201 connected to 127.0.0.1 port 39214
+[ 11] local 127.0.0.1 port 5201 connected to 127.0.0.1 port 39218
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  9]   0.00-1.01   sec  2.38 MBytes  19.8 Mbits/sec    0    639 KBytes       
+[ 11]   0.00-1.01   sec  2.38 MBytes  19.8 Mbits/sec    0    639 KBytes       
+[SUM]   0.00-1.01   sec  4.75 MBytes  39.6 Mbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  9]   1.01-2.00   sec  2.50 MBytes  21.0 Mbits/sec    0    639 KBytes       
+[ 11]   1.01-2.00   sec  2.50 MBytes  21.0 Mbits/sec    0    639 KBytes       
+[SUM]   1.01-2.00   sec  5.00 MBytes  42.0 Mbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  9]   2.00-3.00   sec  2.38 MBytes  20.0 Mbits/sec    0    639 KBytes       
+[ 11]   2.00-3.00   sec  2.38 MBytes  20.0 Mbits/sec    0    639 KBytes       
+[SUM]   2.00-3.00   sec  4.75 MBytes  39.9 Mbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  9]   3.00-4.00   sec  2.38 MBytes  20.0 Mbits/sec    0    639 KBytes       
+[ 11]   3.00-4.00   sec  2.38 MBytes  20.0 Mbits/sec    0    639 KBytes       
+[SUM]   3.00-4.00   sec  4.75 MBytes  39.9 Mbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  9]   4.00-5.00   sec  2.38 MBytes  19.9 Mbits/sec    0    639 KBytes       
+[ 11]   4.00-5.00   sec  2.38 MBytes  19.9 Mbits/sec    0    639 KBytes       
+[SUM]   4.00-5.00   sec  4.75 MBytes  39.9 Mbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  9]   0.00-5.00   sec  12.0 MBytes  20.1 Mbits/sec    0             sender
+[ 11]   0.00-5.00   sec  12.0 MBytes  20.1 Mbits/sec    0             sender
+[SUM]   0.00-5.00   sec  24.0 MBytes  40.3 Mbits/sec    0             sender
+-----------------------------------------------------------
+Server listening on 5201 (test #4)
+-----------------------------------------------------------
+Accepted connection from 127.0.0.1, port 44018
+[ 10] local 127.0.0.1 port 5201 connected to 127.0.0.1 port 44026
+[ 12] local 127.0.0.1 port 5201 connected to 127.0.0.1 port 44030
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[ 10]   0.00-1.00   sec  2.50 MBytes  21.0 Mbits/sec    0    639 KBytes       
+[ 12]   0.00-1.00   sec  2.50 MBytes  21.0 Mbits/sec    0    639 KBytes       
+[SUM]   0.00-1.00   sec  5.00 MBytes  41.9 Mbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ 10]   1.00-2.00   sec  2.38 MBytes  19.9 Mbits/sec    0    639 KBytes       
+[ 12]   1.00-2.00   sec  2.38 MBytes  19.9 Mbits/sec    0    639 KBytes       
+[SUM]   1.00-2.00   sec  4.75 MBytes  39.8 Mbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ 10]   2.00-3.00   sec  2.38 MBytes  19.9 Mbits/sec    0    639 KBytes       
+[ 12]   2.00-3.00   sec  2.38 MBytes  19.9 Mbits/sec    0    639 KBytes       
+[SUM]   2.00-3.00   sec  4.75 MBytes  39.8 Mbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ 10]   3.00-4.00   sec  2.38 MBytes  19.9 Mbits/sec    0    639 KBytes       
+[ 12]   3.00-4.00   sec  2.38 MBytes  19.9 Mbits/sec    0    639 KBytes       
+[SUM]   3.00-4.00   sec  4.75 MBytes  39.8 Mbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ 10]   4.00-5.00   sec  2.38 MBytes  19.9 Mbits/sec    0    639 KBytes       
+[ 12]   4.00-5.00   sec  2.38 MBytes  19.9 Mbits/sec    0    639 KBytes       
+[SUM]   4.00-5.00   sec  4.75 MBytes  39.9 Mbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[ 10]   0.00-5.00   sec  12.0 MBytes  20.1 Mbits/sec    0             sender
+[ 12]   0.00-5.00   sec  12.0 MBytes  20.1 Mbits/sec    0             sender
+[SUM]   0.00-5.00   sec  24.0 MBytes  40.3 Mbits/sec    0             sender
+-----------------------------------------------------------
+Server listening on 5201 (test #5)
+-----------------------------------------------------------
+iperf3: interrupt - the server has terminated

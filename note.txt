@@ -1,0 +1,6 @@
+Iperf3 only allows to save output in 1 OUT OF 2 format: json or normal txt
+Output can not be saved in both format
+
+Possible solution:
+Save output in txt format on server's side
+In json format in client's side

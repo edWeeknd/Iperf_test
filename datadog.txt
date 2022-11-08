@@ -1,0 +1,14 @@
+This command is to install datadog agent on a host computer:
+
+
+DD_INSTALL_ONLY=true DD_AGENT_MAJOR_VERSION=7 DD_API_KEY=e0cabdc7c34f5bd1fb6df5ce5ab0356f DD_SITE="datadoghq.eu" bash -c "$(curl -L https://s3.amazonaws.com/dd-agent/scripts/install_script.sh)"
+
+
+
+
+sudo systemctl start datadog-agent
+sudo systemctl stop datadog-agent
+
+
+
+
